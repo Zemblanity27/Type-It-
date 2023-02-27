@@ -1,6 +1,5 @@
 # Type It!
-## Video Demo: https://youtu.be/xxqS7uKVtCc
-### Description:
+## Description:
 
 Type It! is a simple typing test program where it gives the user a random paragraph to type out. It times the user and allows them to measure how long it will take to type out a random paragraph and gives a percentage accuracy depending on how many correct words they made.
 
